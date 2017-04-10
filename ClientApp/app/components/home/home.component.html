@@ -1,0 +1,41 @@
+<div class="row">
+    <div class="col-sm-9 body-content">
+        <h3>Emloye List</h3>
+        <br />
+        <hr />
+        <br />
+    </div>
+</div>
+
+<div class="row">
+    <div class="table-responsive">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Sira No</th>
+                    <th>Personel Adý</th>
+                    <th>Ozellikleri</th>
+                    <th>Proje</th>
+                    <th>Aksiyon</th>
+                </tr>
+            </thead>
+
+            <tbody>
+                <tr *ngFor="let empData of EmployeeList; let i = index; trackBy: employeeId">
+                    <td> {{i+1}} </td>
+                    <td> {{empData.employeeName}} </td>
+                    <td> {{empData.destination}} </td>
+                    <td> {{empData.project}} </td>
+                    <td>
+                        <a [routerLink]="['/details/', empData.employeeId]"
+                           class="btn btn-xs btn-warning">Detay</a>
+                        <a [routerLink]="['/edit/', empData.employeeId]"
+                           class="btn btn-xs btn-success">Duzenle</a>
+                        <a class="btn btn-xs btn-danger">Sil</a>
+
+                    </td>
+                </tr>
+ 
+        </table>
+    </div>
+</div>

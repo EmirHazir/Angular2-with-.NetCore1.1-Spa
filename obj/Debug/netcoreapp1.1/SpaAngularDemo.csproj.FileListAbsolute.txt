@@ -1,0 +1,9 @@
+C:\Users\EmirHazir\Desktop\SpaAngularDemo\bin\Debug\netcoreapp1.1\SpaAngularDemo.deps.json
+C:\Users\EmirHazir\Desktop\SpaAngularDemo\bin\Debug\netcoreapp1.1\SpaAngularDemo.runtimeconfig.json
+C:\Users\EmirHazir\Desktop\SpaAngularDemo\bin\Debug\netcoreapp1.1\SpaAngularDemo.runtimeconfig.dev.json
+C:\Users\EmirHazir\Desktop\SpaAngularDemo\bin\Debug\netcoreapp1.1\SpaAngularDemo.dll
+C:\Users\EmirHazir\Desktop\SpaAngularDemo\bin\Debug\netcoreapp1.1\SpaAngularDemo.pdb
+C:\Users\EmirHazir\Desktop\SpaAngularDemo\obj\Debug\netcoreapp1.1\SpaAngularDemo.csprojResolveAssemblyReference.cache
+C:\Users\EmirHazir\Desktop\SpaAngularDemo\obj\Debug\netcoreapp1.1\SpaAngularDemo.AssemblyInfo.cs
+C:\Users\EmirHazir\Desktop\SpaAngularDemo\obj\Debug\netcoreapp1.1\SpaAngularDemo.dll
+C:\Users\EmirHazir\Desktop\SpaAngularDemo\obj\Debug\netcoreapp1.1\SpaAngularDemo.pdb
